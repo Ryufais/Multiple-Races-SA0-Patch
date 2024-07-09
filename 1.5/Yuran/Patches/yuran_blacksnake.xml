@@ -1,0 +1,44 @@
+<Patch>
+
+    <Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+
+<li MayRequire="RooAndGloomy.YuranRaceMod" Class="PatchOperationAdd">
+       <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName = "Yuran_Race_Miko_BlackSnake"]/alienRace/graphicPaths</xpath>
+	      <value>
+		  <body Inherit="false">
+			<path>Yuran/Yuranlike/Bodies/BlackSnake/Naked_Thin</path>
+			<extendedGraphics>
+				<Age For="HumanlikeBaby" MayRequire="Ludeon.RimWorld.Biotech">Yuran/Yuranlike/Bodies/Naked_Baby</Age>
+				<Age For="HumanlikeChild" MayRequire="Ludeon.RimWorld.Biotech">
+					<path>Yuran/Yuranlike/Bodies/Naked_Child</path>
+					<extendedGraphics>
+						<Hediff MayRequire="Ludeon.RimWorld.Anomaly" For="Ghoul">Yuran/Yuranlike/Bodies/Naked_ChildGH</Hediff>
+					</extendedGraphics>
+				</Age>
+				<Age For="HumanlikeAdult">
+					<path>Yuran/Yuranlike/Bodies/BlackSnake/Naked_Thin</path>
+					<extendedGraphics>
+						<Hediff MayRequire="Ludeon.RimWorld.Anomaly" For="Ghoul">Yuran/Yuranlike/Bodies/Naked_ThinGH</Hediff>
+						<BodyType For="Thin">Yuran/Yuranlike/Bodies/Naked_Thin</BodyType>
+						<BodyType For="Thin_YR_Bote" MayRequire="SutSutMan.YuranRJWAddon">Yuran/Yuranlike/Bodies/Naked_Thin_YR_Bote</BodyType>
+						<BodyType For="Thin_YR_BB" MayRequire="SutSutMan.YuranRJWAddon">Yuran/Yuranlike/Bodies/Naked_Thin_YR_BB</BodyType>
+					</extendedGraphics>
+				</Age>
+			</extendedGraphics>
+		</body>
+    </value>
+</li>
+
+<li MayRequire="RooAndGloomy.YuranRaceMod" Class="PatchOperationReplace">
+       <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName = "Yuran_Race_Miko_BlackSnake"]/alienRace/generalSettings/alienPartGenerator/bodyAddons/li[path = "Yuran/Yuranlike/tail/YR_tail"]</xpath>
+         <value>
+		    <path>Yuran/Yuranlike/tail/BlackSnake/YR_tail</path>
+		 </value>
+</li>
+
+		</operations>
+	</Operation>
+
+</Patch>

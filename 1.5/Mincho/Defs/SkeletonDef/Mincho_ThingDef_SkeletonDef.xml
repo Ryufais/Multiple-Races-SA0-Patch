@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<SizedApparel.SkeletonDef>
+		<defName>Mincho_ThingDef</defName>
+		<skeletons>
+			<li>
+				<bodyType>Mincho_Body_Large_Mintchoco_Humanlike</bodyType>
+					<Bones>
+						<li>
+							<name>Vagina</name>
+							<south>
+								<InitialPosition>(0, 0, 0.025)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Breasts</name>
+							<south>
+								<InitialPosition>(0, 0, -0.025)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(-0.02, 0, -0.005)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Anus</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Belly</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						
+					</Bones>
+			</li>
+	
+			<li>
+				<bodyType>Mincho_Body_Large_Mintchoco_Slime</bodyType>
+					<Bones>
+						<li>
+							<name>Vagina</name>
+							<south>
+								<InitialPosition>(0, 0, -0.007)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Breasts</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0.05)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(-0.02, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Anus</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, -0.03)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Belly</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						
+					</Bones>
+			</li>
+			
+			<li>
+				<bodyType>Child</bodyType>
+					<Bones>
+					<li>
+							<name>Vagina</name>
+							<south>
+								<InitialPosition>(0, 0, 0.065)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Breasts</name>
+							<south>
+								<InitialPosition>(0, 0, 0.05)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0.06, 0, 0.07)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Anus</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, -0.03)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Belly</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+					</Bones>
+			</li>
+		</skeletons>
+	</SizedApparel.SkeletonDef>
+</Defs>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.5>
+    <li IfModActive="SpankyH.BunRace.core">1.5/Bun</li>
+    <li IfModActive="SutSutMan.MinchoTheMintChocoSlimeHARver">1.5/Mincho</li>
+    <li IfModActive="Epona.EponaRenaissanceUno">1.5/Epona</li>
+    <li IfModActive="Epona.EponaRenaissance">1.5/Epona</li>
+    <li IfModActive="Seioch.Kurin.HAR">1.5/Kurin</li>
+    <li IfModActive="miho.fortifiedoutremer">1.5/Miho</li>
+    <li IfModActive="Nemonian.MY">1.5/Moyo</li>   
+    <li IfModActive="RunneLatki.RabbieRaceMod">1.5/Rabbie</li>
+    <li IfModActive="AOBA.RedMoyo">1.5/RedMoyo</li>
+    <li IfModActive="RooAndGloomy.YuranRaceMod">1.5/Yuran</li>
+  </v1.5>
+</loadFolders>

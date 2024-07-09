@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<SizedApparel.SkeletonDef>
+		<defName>Alien_Destrier</defName>
+		<skeletons>
+			<li>
+				<bodyType>Hulk</bodyType>
+					<Bones>
+						<li>
+							<name>Vagina</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Breasts</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Anus</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Belly</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+					</Bones>
+			</li>
+			<li>
+				<bodyType>Child</bodyType>
+					<Bones>
+					<li>
+							<name>Vagina</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Breasts</name>
+							<south>
+								<InitialPosition>(0, 0, -0.07)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, -0.07)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Anus</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+						<li>
+							<name>Belly</name>
+							<south>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</south>
+							<north>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</north>
+							<east>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
+								<InitialAngle>0</InitialAngle>
+							</east>
+						</li>
+					</Bones>
+			</li>
+		</skeletons>
+	</SizedApparel.SkeletonDef>
+</Defs>

@@ -1,0 +1,38 @@
+<Defs>
+   <rjw.RaceGroupDef>
+		<defName>Moyo_Red_Slug_Race</defName>
+		<raceNames>
+			<li>Alien_RedMoyo</li>
+		</raceNames>
+		
+		<anuses>
+			<li>Petite_Anus</li>
+		</anuses>
+
+		<femaleBreasts>
+			<li>Petite_Breasts</li>
+		</femaleBreasts>
+		
+		<femaleGenitals>
+			<li>Petite_Vagina</li>
+		</femaleGenitals>
+
+		<maleBreasts>
+			<li>Breasts</li>
+		</maleBreasts>
+
+		<maleGenitals>
+			<li>Petite_Penis</li>
+		</maleGenitals>
+
+		<tags>
+			<li>Skin</li>
+		</tags>
+		<hasSingleGender>false</hasSingleGender>
+		<hasSexNeed>true</hasSexNeed>
+		<hasFertility>true</hasFertility>
+		<hasPregnancy>true</hasPregnancy>
+		<oviPregnancy>false</oviPregnancy>
+		<ImplantEggs>false</ImplantEggs>
+	</rjw.RaceGroupDef>
+</Defs>

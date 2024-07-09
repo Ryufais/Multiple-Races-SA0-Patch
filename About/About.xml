@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+
+	<name>Sized Apparel Multi Alien Patch</name>
+        <author>AlexDuKaNa, Ryufais</author>
+	<packageId>adk.sar.alien</packageId>
+	<description>Adds SAR support for some HAR races, including support for child bodies. A retexture of NyaamZ's SAR alien races mod.
+	
+	             Ryufais: All new alien textures and offset adjustments are done by AlexDuKaNa, i simply added patches for the relevant races so their parts would apply.
+
+				 - Thanks to NyaamZ for the alien races textures.
+				 - Thanks to Talos for the Miho desertskin textures
+	</description>
+	<supportedVersions>
+               <li>1.5</li>
+        </supportedVersions>
+		<modDependencies>
+		 <li>
+			<packageId>OTYOTY.SizedApparel</packageId>
+			<displayName>Sized Apparel for RJW (SAR version)</displayName>
+			<downloadUrl>https://gitgud.io/ll.mirrors/sized-apparel-zero</downloadUrl>
+		 </li>
+		 <li>
+			<packageId>OTYOTY.SizedApparel.extended</packageId>
+			<displayName>Sized Apparel extended</displayName>
+			<downloadUrl>https://gitgud.io/ll.mirrors/sized-apparel-extended</downloadUrl>
+		 </li>
+		    
+		</modDependencies>
+		<loadAfter>
+		 <li>brrainz.harmony</li>
+		 <li>erdelf.HumanoidAlienRaces</li>
+		 <li>rim.job.world</li>
+		 <li>OTYOTY.SizedApparel</li>
+		 <li>NyaamZ.SA.AlienTextures</li>
+		 <li>OTYOTY.SizedApparel.extended</li>
+	    </loadAfter>
+
+</ModMetaData>
+  
