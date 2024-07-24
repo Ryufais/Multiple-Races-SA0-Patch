@@ -80,7 +80,7 @@
             <boneName>Belly</boneName>
             <defaultHediffName>BellyBulge</defaultHediffName>
             <bodyPartOf>Belly</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>None</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>false</centeredTexture>
             <!-- TODO? <TexturePaths/> -->
@@ -169,7 +169,7 @@
             <boneName>Belly</boneName>
             <defaultHediffName>BellyBulge</defaultHediffName>
             <bodyPartOf>Belly</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>None</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>false</centeredTexture>
             <!-- TODO? <TexturePaths/> -->
