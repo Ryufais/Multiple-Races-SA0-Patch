@@ -7,37 +7,7 @@
 				<bodyType>Hulk</bodyType>
 					<Bones>
 						<li>
-							<name>Vagina</name>
-							<south>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-						<li>
 							<name>Breasts</name>
-							<south>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-						<li>
-							<name>Anus</name>
 							<south>
 								<InitialPosition>(0, 0, 0)</InitialPosition>
 								<InitialAngle>0</InitialAngle>
@@ -71,21 +41,6 @@
 			<li>
 				<bodyType>Child</bodyType>
 					<Bones>
-					<li>
-							<name>Vagina</name>
-							<south>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
 						<li>
 							<name>Breasts</name>
 							<south>
@@ -98,21 +53,6 @@
 							</north>
 							<east>
 								<InitialPosition>(0, 0, -0.07)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</east>
-						</li>
-						<li>
-							<name>Anus</name>
-							<south>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</south>
-							<north>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
-								<InitialAngle>0</InitialAngle>
-							</north>
-							<east>
-								<InitialPosition>(0, 0, 0)</InitialPosition>
 								<InitialAngle>0</InitialAngle>
 							</east>
 						</li>

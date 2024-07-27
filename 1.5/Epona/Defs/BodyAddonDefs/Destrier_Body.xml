@@ -27,39 +27,6 @@
             </depthOffset>
           </li>
           <li>
-            <partName>Vagina</partName>
-            <boneName>Vagina</boneName>
-            <defaultHediffName>Vagina</defaultHediffName>
-            <bodyPartOf>Vagina</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <mustHaveBone>true</mustHaveBone>
-            <centeredTexture>true</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0088</south>
-              <north>0.0100</north>
-              <east>0.0088</east>
-              <west>0.0088</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Anus</partName>
-            <boneName>Anus</boneName>
-            <defaultHediffName>Anus</defaultHediffName>
-            <bodyPartOf>Anus</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <centeredTexture>true</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0093</south>
-              <north>0.0105</north>
-              <east>0.0093</east>
-              <west>0.0093</west>
-            </depthOffset>
-          </li>
-          <li>
             <partName>Belly</partName>
             <boneName>Belly</boneName>
             <defaultHediffName>BellyBulge</defaultHediffName>
@@ -97,39 +64,6 @@
               <north>0.001</north>
               <east>0.0113</east>
               <west>0.0113</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Vagina</partName>
-            <boneName>Vagina</boneName>
-            <defaultHediffName>Vagina</defaultHediffName>
-            <bodyPartOf>Vagina</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <mustHaveBone>true</mustHaveBone>
-            <centeredTexture>true</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0088</south>
-              <north>0.0100</north>
-              <east>0.0088</east>
-              <west>0.0088</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Anus</partName>
-            <boneName>Anus</boneName>
-            <defaultHediffName>Anus</defaultHediffName>
-            <bodyPartOf>Anus</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <centeredTexture>true</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0093</south>
-              <north>0.0105</north>
-              <east>0.0093</east>
-              <west>0.0093</west>
             </depthOffset>
           </li>
           <li>

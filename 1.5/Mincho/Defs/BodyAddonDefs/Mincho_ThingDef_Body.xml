@@ -12,7 +12,7 @@
             <boneName>Breasts</boneName>
             <defaultHediffName>Breasts</defaultHediffName>
             <bodyPartOf>Breasts</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>true</isBreasts>
             <!-- "isBreasts" is used for step count -->
             <!-- rjw private parts and breasts has different step method with serverity. -->
@@ -47,7 +47,7 @@
             <boneName>Vagina</boneName>
             <defaultHediffName>Vagina</defaultHediffName>
             <bodyPartOf>Vagina</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <mustHaveBone>true</mustHaveBone>
             <centeredTexture>true</centeredTexture>
@@ -64,7 +64,7 @@
             <boneName>Anus</boneName>
             <defaultHediffName>Anus</defaultHediffName>
             <bodyPartOf>Anus</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>true</centeredTexture>
             <!-- TODO? <TexturePaths/> -->
@@ -80,7 +80,7 @@
             <boneName>Belly</boneName>
             <defaultHediffName>BellyBulge</defaultHediffName>
             <bodyPartOf>Belly</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>false</centeredTexture>
             <!-- TODO? <TexturePaths/> -->
@@ -102,7 +102,7 @@
             <boneName>Breasts</boneName>
             <defaultHediffName>Breasts</defaultHediffName>
             <bodyPartOf>Breasts</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>true</isBreasts>
             <!-- "isBreasts" is used for step count -->
             <!-- rjw private parts and breasts has different step method with serverity. -->
@@ -137,7 +137,7 @@
             <boneName>Vagina</boneName>
             <defaultHediffName>Vagina</defaultHediffName>
             <bodyPartOf>Vagina</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <mustHaveBone>true</mustHaveBone>
             <centeredTexture>true</centeredTexture>
@@ -154,7 +154,7 @@
             <boneName>Anus</boneName>
             <defaultHediffName>Anus</defaultHediffName>
             <bodyPartOf>Anus</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>true</centeredTexture>
             <!-- TODO? <TexturePaths/> -->
@@ -170,7 +170,7 @@
             <boneName>Belly</boneName>
             <defaultHediffName>BellyBulge</defaultHediffName>
             <bodyPartOf>Belly</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>false</centeredTexture>
             <!-- TODO? <TexturePaths/> -->
@@ -185,186 +185,6 @@
         </Addons>
 	  </li>
 	  <li>
-        <bodyType>Mincho_Body_Large_Mintchoco_Slime</bodyType>
-        <Addons>
-          <li>
-            <partName>Breasts</partName>
-            <boneName>Breasts</boneName>
-            <defaultHediffName>Breasts</defaultHediffName>
-            <bodyPartOf>Breasts</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>true</isBreasts>
-            <!-- "isBreasts" is used for step count -->
-            <!-- rjw private parts and breasts has different step method with serverity. -->
-            <mustHaveBone>false</mustHaveBone>
-            <centeredTexture>false</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0113</south>
-              <north>0.001</north>
-              <east>0.0113</east>
-              <west>0.0113</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Nipples</partName>
-            <boneName>Breasts</boneName>
-            <defaultHediffName>Breasts</defaultHediffName>
-            <bodyPartOf>Breasts</bodyPartOf>
-            <colorType>Nipple</colorType>
-            <isBreasts>true</isBreasts>
-            <mustHaveBone>false</mustHaveBone>
-            <centeredTexture>false</centeredTexture>
-            <depthOffset>
-              <south>0.0114</south>
-              <north>0.0011</north>
-              <east>0.0114</east>
-              <west>0.0114</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Vagina</partName>
-            <boneName>Vagina</boneName>
-            <defaultHediffName>Vagina</defaultHediffName>
-            <bodyPartOf>Vagina</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <mustHaveBone>true</mustHaveBone>
-            <centeredTexture>true</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0088</south>
-              <north>-0.0100</north>
-              <east>0.0088</east>
-              <west>0.0088</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Anus</partName>
-            <boneName>Anus</boneName>
-            <defaultHediffName>Anus</defaultHediffName>
-            <bodyPartOf>Anus</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <centeredTexture>true</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0093</south>
-              <north>0.0105</north>
-              <east>0.0093</east>
-              <west>0.0093</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Belly</partName>
-            <boneName>Belly</boneName>
-            <defaultHediffName>BellyBulge</defaultHediffName>
-            <bodyPartOf>Belly</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <centeredTexture>false</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0098</south>
-              <north>0.0002</north>
-              <east>0.0098</east>
-              <west>0.0098</west>
-            </depthOffset>
-          </li>
-         
-        </Addons>
-      </li>
-	  <li>
-        <bodyType>Mincho_Body_Large_Mintchoco_Humanlike</bodyType>
-        <Addons>
-          <li>
-            <partName>Breasts</partName>
-            <boneName>Breasts</boneName>
-            <defaultHediffName>Breasts</defaultHediffName>
-            <bodyPartOf>Breasts</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>true</isBreasts>
-            <!-- "isBreasts" is used for step count -->
-            <!-- rjw private parts and breasts has different step method with serverity. -->
-            <mustHaveBone>false</mustHaveBone>
-            <centeredTexture>false</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0113</south>
-              <north>0.001</north>
-              <east>0.0113</east>
-              <west>0.0113</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Nipples</partName>
-            <boneName>Breasts</boneName>
-            <defaultHediffName>Breasts</defaultHediffName>
-            <bodyPartOf>Breasts</bodyPartOf>
-            <colorType>Nipple</colorType>
-            <isBreasts>true</isBreasts>
-            <mustHaveBone>false</mustHaveBone>
-            <centeredTexture>false</centeredTexture>
-            <depthOffset>
-              <south>0.0114</south>
-              <north>0.0011</north>
-              <east>0.0114</east>
-              <west>0.0114</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Vagina</partName>
-            <boneName>Vagina</boneName>
-            <defaultHediffName>Vagina</defaultHediffName>
-            <bodyPartOf>Vagina</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <mustHaveBone>true</mustHaveBone>
-            <centeredTexture>true</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0100</south>
-              <north>-0.0100</north>
-              <east>0.0088</east>
-              <west>0.0088</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Anus</partName>
-            <boneName>Anus</boneName>
-            <defaultHediffName>Anus</defaultHediffName>
-            <bodyPartOf>Anus</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <centeredTexture>true</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0093</south>
-              <north>0.0105</north>
-              <east>0.0093</east>
-              <west>0.0093</west>
-            </depthOffset>
-          </li>
-          <li>
-            <partName>Belly</partName>
-            <boneName>Belly</boneName>
-            <defaultHediffName>BellyBulge</defaultHediffName>
-            <bodyPartOf>Belly</bodyPartOf>
-            <colorType>Skin</colorType>
-            <isBreasts>false</isBreasts>
-            <centeredTexture>false</centeredTexture>
-            <!-- TODO? <TexturePaths/> -->
-            <depthOffset>
-              <south>0.0098</south>
-              <north>0.0002</north>
-              <east>0.0098</east>
-              <west>0.0098</west>
-            </depthOffset>
-          </li>
-        
-        </Addons>
-	  </li>
-	  <li>
         <bodyType>Child</bodyType>
         <Addons>
           <li>
@@ -372,7 +192,7 @@
             <boneName>Breasts</boneName>
             <defaultHediffName>Breasts</defaultHediffName>
             <bodyPartOf>Breasts</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>true</isBreasts>
             <!-- "isBreasts" is used for step count -->
             <!-- rjw private parts and breasts has different step method with serverity. -->
@@ -407,7 +227,7 @@
             <boneName>Vagina</boneName>
             <defaultHediffName>Vagina</defaultHediffName>
             <bodyPartOf>Vagina</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <mustHaveBone>true</mustHaveBone>
             <centeredTexture>true</centeredTexture>
@@ -424,7 +244,7 @@
             <boneName>Anus</boneName>
             <defaultHediffName>Anus</defaultHediffName>
             <bodyPartOf>Anus</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>true</centeredTexture>
             <!-- TODO? <TexturePaths/> -->
@@ -440,7 +260,7 @@
             <boneName>Belly</boneName>
             <defaultHediffName>BellyBulge</defaultHediffName>
             <bodyPartOf>Belly</bodyPartOf>
-            <colorType>Skin</colorType>
+            <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>false</centeredTexture>
             <!-- TODO? <TexturePaths/> -->
