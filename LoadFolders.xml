@@ -11,5 +11,6 @@
     <li IfModActive="RunneLatki.RabbieRaceMod">1.5/Rabbie</li>
     <li IfModActive="AOBA.RedMoyo">1.5/RedMoyo</li>
     <li IfModActive="RooAndGloomy.YuranRaceMod">1.5/Yuran</li>
+    <li IfModActive="Millap.Bori">1.5/Bori</li>
   </v1.5>
 </loadFolders>
