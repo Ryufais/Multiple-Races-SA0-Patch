@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<success>Normal</success>
+		<operations>
+      <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_Farmer"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_Farmer"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_Farmer"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_Adventurer"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_Adventurer"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_Adventurer"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_BuffCoat"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_BuffCoat"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_BuffCoat"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_JackPlate"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_JackPlate"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_JackPlate"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_Noble"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_Noble"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_Noble"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_FullPlate"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_FullPlate"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_FullPlate"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_DragoonPlate"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_DragoonPlate"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_DragoonPlate"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_FullPlateMedic"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_FullPlateMedic"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_FullPlateMedic"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_PowerArmor"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_PowerArmor"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_PowerArmor"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_PowerArmorMunition"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_PowerArmorMunition"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_PowerArmorMunition"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_Priest"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_Priest"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_Priest"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_FurCape"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_FurCape"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_FurCape"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_NobleCape"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_NobleCape"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_NobleCape"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_BreastPlate"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_BreastPlate"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_BreastPlate"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+	  
+	  <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Epona_Apparel_ClanBelt"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_ClanBelt"]/apparel</xpath>
+				<value>
+            <tags>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Epona_Apparel_ClanBelt"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+          </value>
+        </match>
+      </li>
+
+
+	  </operations>
+	</Operation>
+</Patch>
