@@ -91,7 +91,7 @@
               <west>0.0098</west>
             </depthOffset>
           </li>
-		  <li>
+          <li>
             <partName>PubicHair</partName>
             <boneName>PubicHair</boneName>
             <defaultHediffName>Default</defaultHediffName>
@@ -109,7 +109,7 @@
           </li>
         </Addons>
       </li>
-	  <li>
+      <li>
         <bodyType>Child</bodyType>
         <Addons>
           <li>

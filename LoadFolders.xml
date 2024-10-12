@@ -13,5 +13,6 @@
     <li IfModActive="RooAndGloomy.YuranRaceMod">1.5/Yuran</li>
     <li IfModActive="Millap.Bori">1.5/Bori</li>
     <li IfModActive="zal.arachnerace">1.5/Arachne</li>
+    <li IfModActive="Inoshishi3.KTTFDE">1.5/Kurin Deluxe</li>
   </v1.5>
 </loadFolders>
