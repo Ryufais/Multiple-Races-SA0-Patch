@@ -18,6 +18,7 @@
             <!-- rjw private parts and breasts has different step method with serverity. -->
             <mustHaveBone>false</mustHaveBone>
             <centeredTexture>false</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <!-- TODO? <TexturePaths/> -->
             <depthOffset>
               <south>0.0113</south>
@@ -35,6 +36,7 @@
             <isBreasts>true</isBreasts>
             <mustHaveBone>false</mustHaveBone>
             <centeredTexture>false</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <depthOffset>
               <south>0.0114</south>
               <north>0.0011</north>
@@ -51,6 +53,7 @@
             <isBreasts>false</isBreasts>
             <mustHaveBone>true</mustHaveBone>
             <centeredTexture>true</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <!-- TODO? <TexturePaths/> -->
             <depthOffset>
               <south>0.0088</south>
@@ -67,6 +70,7 @@
             <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>true</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <!-- TODO? <TexturePaths/> -->
             <depthOffset>
               <south>0.0093</south>
@@ -83,6 +87,7 @@
             <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>false</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <!-- TODO? <TexturePaths/> -->
             <depthOffset>
               <south>0.0098</south>
@@ -91,7 +96,7 @@
               <west>0.0098</west>
             </depthOffset>
           </li>
-          <li>
+		  <li>
             <partName>PubicHair</partName>
             <boneName>PubicHair</boneName>
             <defaultHediffName>Default</defaultHediffName>
@@ -99,6 +104,7 @@
             <colorType>Hair</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>true</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <!-- TODO? <TexturePaths/> -->
             <depthOffset>
               <south>0.0099</south>
@@ -109,7 +115,7 @@
           </li>
         </Addons>
       </li>
-      <li>
+	  <li>
         <bodyType>Child</bodyType>
         <Addons>
           <li>
@@ -123,6 +129,7 @@
             <!-- rjw private parts and breasts has different step method with serverity. -->
             <mustHaveBone>false</mustHaveBone>
             <centeredTexture>false</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <!-- TODO? <TexturePaths/> -->
             <depthOffset>
               <south>0.0113</south>
@@ -140,6 +147,7 @@
             <isBreasts>true</isBreasts>
             <mustHaveBone>false</mustHaveBone>
             <centeredTexture>false</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <depthOffset>
               <south>0.0</south>
               <north>0.00</north>
@@ -156,6 +164,7 @@
             <isBreasts>false</isBreasts>
             <mustHaveBone>true</mustHaveBone>
             <centeredTexture>true</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <!-- TODO? <TexturePaths/> -->
             <depthOffset>
               <south>0.0088</south>
@@ -172,6 +181,7 @@
             <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>true</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <!-- TODO? <TexturePaths/> -->
             <depthOffset>
               <south>0.0093</south>
@@ -188,6 +198,7 @@
             <colorType>Custom</colorType>
             <isBreasts>false</isBreasts>
             <centeredTexture>false</centeredTexture>
+            <defNameOverride>Yuran_Race</defNameOverride>
             <!-- TODO? <TexturePaths/> -->
             <depthOffset>
               <south>0.0098</south>
