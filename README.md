@@ -12,3 +12,6 @@ Supported races include:
 - Rabbie
 - RedMoyo
 - Yuran
+- Warhammer Dryad
+- Moelotl (retextures based off of Talos's textures)
+- Maru
