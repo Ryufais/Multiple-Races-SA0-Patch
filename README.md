@@ -1,4 +1,4 @@
-Add SAR support to HAR races
+Add SA0 support to HAR races
 
 Supported races include:
 - Arachne
