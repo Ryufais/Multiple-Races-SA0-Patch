@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- SizedApparel_ShowBelly
+	-不要藏肚子，即使衣服盖住了躯干
+
+SizedApparel_ShowPrivateCrotch
+	-不要藏胯部（生殖器和肛门），即使衣服盖住生殖器
+	
+SizedApparel_IgnorBreastSize
+	-尺码服装mod在计算服装的胸部尺寸时会忽略服装
+	-这个标签对跳过很有用。一个很好的例子是ratkin盾牌（盾牌覆盖乳房） 
+	  
+	-->
+<Patch>
+ <Operation Class="PatchOperationFindMod">
+	<mods>
+		<li>MoeLotl Race</li>
+	</mods>	
+       <match Class="PatchOperationSequence">
+        <success>Normal</success>
+     <operations>
+<!-- 萌螈 拘束服-->
+      <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Axolotl_SlaveAttire"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_SlaveAttire"]/apparel</xpath>
+          <value>
+            <tags>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+			  <li>SizedApparel_IgnorBreastSize</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_SlaveAttire"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+			  <li>SizedApparel_IgnorBreastSize</li>
+          </value>
+        </match>
+      </li>
+	  
+<!--萌螈 映日裳-->	  
+      <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Axolotl_SunlitRobe"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_SunlitRobe"]/apparel</xpath>
+          <value>
+            <tags>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+			  <li>SizedApparel_IgnorBreastSize</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_SunlitRobe"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+			  <li>SizedApparel_IgnorBreastSize</li>
+          </value>
+        </match>
+      </li>
+
+<!--萌螈 毛绒披肩-->	  
+      <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Axolotl_FurShawl"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_FurShawl"]/apparel</xpath>
+          <value>
+            <tags>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_FurShawl"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+          </value>
+        </match>
+      </li>
+
+<!--萌螈 白雪裘-->	  
+      <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Axolotl_WhiteSnowRobe"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_WhiteSnowRobe"]/apparel</xpath>
+          <value>
+            <tags>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_WhiteSnowRobe"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+          </value>
+        </match>
+      </li>
+
+<!--萌螈 聚墨衫-->	  
+      <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Axolotl_InkGatheringRobe"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_InkGatheringRobe"]/apparel</xpath>
+          <value>
+            <tags>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_InkGatheringRobe"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+          </value>
+        </match>
+      </li>
+
+
+<!--萌螈 行囊-->	  
+      <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Axolotl_MoeLotlBackpack"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_MoeLotlBackpack"]/apparel</xpath>
+          <value>
+            <tags>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_MoeLotlBackpack"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+          </value>
+        </match>
+      </li>
+
+<!--萌螈 轻云纱-->	  
+      <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Axolotl_LightCloudRobe"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_LightCloudRobe"]/apparel</xpath>
+          <value>
+            <tags>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_LightCloudRobe"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+          </value>
+        </match>
+      </li>
+
+<!--萌螈 锦绣外衣-->	  
+      <li Class="PatchOperationConditional">
+        <xpath>Defs/ThingDef[defName = "Axolotl_SplendidCape"]/apparel/tags</xpath>
+        <nomatch Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_SplendidCape"]/apparel</xpath>
+          <value>
+            <tags>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+            </tags>
+          </value>
+        </nomatch>
+        <match Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName = "Axolotl_SplendidCape"]/apparel/tags</xpath>
+          <value>
+			  <li>SizedApparel_ShowBelly</li>
+			  <li>SizedApparel_ShowPrivateCrotch</li>
+              <li>SizedApparel_IgnorBreastSize</li>
+          </value>
+        </match>
+      </li>
+	  
+      </operations>
+     </match> 
+  </Operation>
+</Patch>
