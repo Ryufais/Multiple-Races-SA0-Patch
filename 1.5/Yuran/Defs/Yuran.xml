@@ -1,0 +1,35 @@
+<Defs>
+
+    <rjw.RaceGroupDef>
+        <defName>YuranRaceGroup</defName>
+        <raceNames>
+            <li>Yuran_Race</li>
+			<li>Yuran_Race_Miko_BlackSnake</li>
+			<li>Yuran_Race_Miko</li>
+        </raceNames>
+        <anuses>
+            <li>Anus</li>
+        </anuses>
+        <femaleBreasts>
+            <li>Breasts</li>
+        </femaleBreasts>
+        <maleBreasts>
+            <li>Breasts</li>
+        </maleBreasts>
+        <femaleGenitals>
+            <li>RodentVagina</li>
+        </femaleGenitals>
+        <maleGenitals>
+            <li>RodentPenis</li>
+        </maleGenitals>
+        <tags>
+            <li>Fur</li>
+        </tags>
+        <raceSexDrive>1.3</raceSexDrive> <!-- Increased Sex drive !-->
+        <hasSingleGender>false</hasSingleGender>
+        <hasSexNeed>true</hasSexNeed>
+        <hasFertility>true</hasFertility>
+        <hasPregnancy>true</hasPregnancy>
+    </rjw.RaceGroupDef>
+
+</Defs>
