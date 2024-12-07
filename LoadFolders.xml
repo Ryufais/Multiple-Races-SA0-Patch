@@ -14,5 +14,8 @@
     <li IfModActive="Millap.Bori">1.5/Bori</li>
     <li IfModActive="zal.arachnerace">1.5/Arachne</li>
     <li IfModActive="Inoshishi3.KTTFDE">1.5/Kurin</li>
+    <li IfModActive="Sans.WarhammerishDryad">1.5/Dryad</li>
+    <li IfModActive="HenTaiLoliTeam.Axolotl">1.5/Moelotl</li>
+    <li IfModActive="VAMV.MaruRaceMod">1.5/Maru</li>
   </v1.5>
 </loadFolders>
