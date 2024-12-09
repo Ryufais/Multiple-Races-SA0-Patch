@@ -17,5 +17,6 @@
     <li IfModActive="Sans.WarhammerishDryad">1.5/Dryad</li>
     <li IfModActive="HenTaiLoliTeam.Axolotl">1.5/Moelotl</li>
     <li IfModActive="VAMV.MaruRaceMod">1.5/Maru</li>
+    <li IfModActive="JomoKiN.FCP.StupidSexyDeathclaws">1.5/SSD</li>
   </v1.5>
 </loadFolders>
