@@ -9,7 +9,7 @@
 						<li>
 							<name>Vagina</name>
 							<south>
-								<InitialPosition>(0, 0, 0.009)</InitialPosition>
+								<InitialPosition>(0, 0, 0)</InitialPosition>
 								<InitialAngle>0</InitialAngle>
 							</south>
 							<north>
