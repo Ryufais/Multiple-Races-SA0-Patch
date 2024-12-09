@@ -15,3 +15,4 @@ Supported races include:
 - Warhammer Dryad
 - Moelotl (retextures based off of Talos's textures)
 - Maru
+- Deathclaws
