@@ -16,3 +16,4 @@ Supported races include:
 - Moelotl (retextures based off of Talos's textures)
 - Maru
 - Deathclaws
+- Gloomy Dragonians
