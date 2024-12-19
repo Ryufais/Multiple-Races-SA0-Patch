@@ -12,7 +12,7 @@
 							<boneName>Breasts</boneName>
 							<defaultHediffName>Breasts</defaultHediffName>
 							<bodyPartOf>Breasts</bodyPartOf>
-							<colorType>Skin</colorType>
+							<colorType>Custom</colorType>
 							<isBreasts>true</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<!-- TODO? <TexturePaths/> -->
@@ -28,7 +28,7 @@
 							<boneName>Vagina</boneName>
 							<defaultHediffName>Vagina</defaultHediffName>
 							<bodyPartOf>Vagina</bodyPartOf>
-							<colorType>Skin</colorType>
+							<colorType>Custom</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<!-- TODO? <TexturePaths/> -->
@@ -44,7 +44,7 @@
 							<boneName>Anus</boneName>
 							<defaultHediffName>Anus</defaultHediffName>
 							<bodyPartOf>Anus</bodyPartOf>
-							<colorType>Skin</colorType>
+							<colorType>Custom</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<!-- TODO? <TexturePaths/> -->
@@ -60,7 +60,7 @@
 							<boneName>Belly</boneName>
 							<defaultHediffName>BellyBulge</defaultHediffName>
 							<bodyPartOf>Belly</bodyPartOf>
-							<colorType>Skin</colorType>
+							<colorType>Custom</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<!-- TODO? <TexturePaths/> -->
@@ -82,7 +82,7 @@
 							<boneName>Breasts</boneName>
 							<defaultHediffName>Breasts</defaultHediffName>
 							<bodyPartOf>Breasts</bodyPartOf>
-							<colorType>Skin</colorType>
+							<colorType>Custom</colorType>
 							<isBreasts>true</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<!-- TODO? <TexturePaths/> -->
@@ -98,7 +98,7 @@
 							<boneName>Vagina</boneName>
 							<defaultHediffName>Vagina</defaultHediffName>
 							<bodyPartOf>Vagina</bodyPartOf>
-							<colorType>Skin</colorType>
+							<colorType>Custom</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<!-- TODO? <TexturePaths/> -->
@@ -114,7 +114,7 @@
 							<boneName>Anus</boneName>
 							<defaultHediffName>Anus</defaultHediffName>
 							<bodyPartOf>Anus</bodyPartOf>
-							<colorType>Skin</colorType>
+							<colorType>Custom</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<!-- TODO? <TexturePaths/> -->
@@ -130,7 +130,7 @@
 							<boneName>Belly</boneName>
 							<defaultHediffName>BellyBulge</defaultHediffName>
 							<bodyPartOf>Belly</bodyPartOf>
-							<colorType>Skin</colorType>
+							<colorType>Custom</colorType>
 							<isBreasts>false</isBreasts>
 							<centeredTexture>false</centeredTexture>
 							<!-- TODO? <TexturePaths/> -->
